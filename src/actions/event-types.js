@@ -1,0 +1,3 @@
+export const EVENT = {
+  CONTACTS_UPDATE: "CONTACTS_UPDATE",
+};

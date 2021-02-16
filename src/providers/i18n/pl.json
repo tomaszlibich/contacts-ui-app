@@ -1,0 +1,16 @@
+{
+  "error.login": "Login error",
+  "error.network": "Network error",
+  "error.registration": "Registration error",
+  "errorDetails.generic": "Oops, something went wrong...",
+  "general.add": "Add",
+  "general.back": "Back",
+  "general.cancel": "Cancel",
+  "general.change": "Change",
+  "general.close": "Close",
+  "general.no": "No",
+  "general.remove": "Remove",
+  "general.removeAll": "Remove all",
+  "general.yes": "Yes",
+  "navigation.contacts": "Contacts"
+}
